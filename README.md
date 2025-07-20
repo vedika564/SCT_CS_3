@@ -1,2 +1,2 @@
 # SCT_CS_3
-Password strength checker in Python for cybersecurity internship
+Password strength checker in Python for cybersecurity internship at SkillCraft Technology
